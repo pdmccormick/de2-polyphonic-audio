@@ -1,5 +1,5 @@
 /**
- * DE2 NIOS II audiocore perpheral driver
+ * DE2 NIOS II audiocore peripheral driver
  *
  * (c) 2013 Peter McCormick (peter@pdmccormick.com)
  */

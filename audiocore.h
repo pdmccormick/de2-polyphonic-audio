@@ -1,5 +1,5 @@
 /**
- * DE2 NIOS II audiocore perpheral driver
+ * DE2 NIOS II audiocore peripheral driver
  *
  * (c) 2013 Peter McCormick (peter@pdmccormick.com)
  */
@@ -9,7 +9,7 @@
 
 /*
  * Set the bits of `audio_tone` according to which notes of a C major scale you
- * want to hear: bit 0 is C4, bit 1 is D4, and all the way up to C6
+ * want to hear: bit 0 is C4, bit 1 is D4, and all the way up to F6
  */
 extern int audio_tone;
 
